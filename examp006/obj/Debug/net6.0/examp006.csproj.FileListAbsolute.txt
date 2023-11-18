@@ -1,0 +1,15 @@
+C:\GB\C\examp006\bin\Debug\net6.0\examp006.exe
+C:\GB\C\examp006\bin\Debug\net6.0\examp006.deps.json
+C:\GB\C\examp006\bin\Debug\net6.0\examp006.runtimeconfig.json
+C:\GB\C\examp006\bin\Debug\net6.0\examp006.dll
+C:\GB\C\examp006\bin\Debug\net6.0\examp006.pdb
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.csproj.AssemblyReference.cache
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.AssemblyInfoInputs.cache
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.AssemblyInfo.cs
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.csproj.CoreCompileInputs.cache
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.dll
+C:\GB\C\examp006\obj\Debug\net6.0\refint\examp006.dll
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.pdb
+C:\GB\C\examp006\obj\Debug\net6.0\examp006.genruntimeconfig.cache
+C:\GB\C\examp006\obj\Debug\net6.0\ref\examp006.dll
